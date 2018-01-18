@@ -27,6 +27,8 @@ virtualenv workshop -p python3.5
 source workshop/bin/activate
 pip3 install -r requirements.txt
 ```
+advanced users may want to install Fiji (image processing toolbox written in Java): `https://fiji.sc/#download`
+
 
 ## materials (raw)
 ### biology
