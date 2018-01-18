@@ -37,8 +37,9 @@ pip3 install -r requirements.txt
 5. [Visualizations of the brain activity](https://www.janelia.org/sites/default/files/Labs/Keller%20Lab/Keller%202014.pdf) fig. 2
 
 ### PCA
-1. [intuition](https://media.springernature.com/full/nature-static/assets/v1/image-assets/nbt0308-303-F1.gif)
-2. [sklearn PCA object](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)
+1. [data-points cloud](http://resources.sttrcancer.org/style/toolImages/pca.png)
+2. [intuition](https://media.springernature.com/full/nature-static/assets/v1/image-assets/nbt0308-303-F1.gif)
+3. [sklearn PCA object](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA)
 
 ### might be useful
 1. [z-score](https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.stats.zscore.html)
