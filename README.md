@@ -34,6 +34,7 @@ pip3 install -r requirements.txt
 2. [Whole-brain functional imaging at cellular resolution using light-sheet microscopy](https://www.janelia.org/sites/default/files/Library/Ahrens%202013_4.pdf)
 3. [Ultrasensitive fluorescent proteins for imaging neuronal activity](https://www.janelia.org/sites/default/files/Library/nature12354.pdf) (fig. 3a)
 4. [Fictive swimming the light-sheet virtual reality setup](https://elifesciences.org/articles/12741#media2)
+5. [Visualizations of the brain activity](https://www.janelia.org/sites/default/files/Labs/Keller%20Lab/Keller%202014.pdf) fig. 2
 
 ### PCA
 1. [intuition](https://media.springernature.com/full/nature-static/assets/v1/image-assets/nbt0308-303-F1.gif)
