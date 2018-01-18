@@ -1,5 +1,5 @@
 # appliedmldays_2018
-Workshop: Discovering Brain Structure with Machine Learning
+Workshop: Discovering Brain Structure with Machine Learning, edycja politechniczna
 
 ## Plan
 1. Wprowadzenie - dr Tomasz Trzciński
