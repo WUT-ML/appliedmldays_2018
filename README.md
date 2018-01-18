@@ -16,7 +16,7 @@ Workshop: Discovering Brain Structure with Machine Learning, edycja politechnicz
 4. PCA
     * intuicja
     * implementacja
-    * interpretacja
+    * interpretacja ([artykuł 1](http://www.cell.com/neuron/pdf/S0896-6273(14)00050-6.pdf), [artykuł 2](https://elifesciences.org/articles/12741))
 5. Podsumowanie
     * interakcje biologii z machine learning
 
