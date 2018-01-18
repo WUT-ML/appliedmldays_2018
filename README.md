@@ -1,6 +1,21 @@
 # appliedmldays_2018
 Workshop: Discovering Brain Structure with Machine Learning
 
+## Plan
+1. Wprowadzenie - dr Tomasz Trzciński
+2. Neuronauka obliczeniowa
+    * Dlaczego nie pracujemy na danych z mózgu człowieka?
+    * Dlaczego pracuje się na danych zwierzęcych?
+    * Rodzaje obrazowania (światło vs. elektroda)
+3. Dane
+    * Struktura 3D, 4D
+    * Rozmiar danych, typ
+    * Co dane z obrazowania właściwie prezentują?
+    * Pomysły na analizy.
+4. PCA
+    * intuicja
+    * implementacja
+
 ## setup
 ```bash
 git clone https://github.com/WUT-ML/appliedmldays_2018.git
