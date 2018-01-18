@@ -7,6 +7,7 @@ Workshop: Discovering Brain Structure with Machine Learning, edycja politechnicz
     * Dlaczego nie pracujemy na danych z mózgu człowieka?
     * Dlaczego pracuje się na danych zwierzęcych?
     * Rodzaje obrazowania (światło vs. elektroda)
+2. Obrazowanie mózgu zebrafish
 3. Dane
     * Struktura 3D, 4D
     * Rozmiar danych, typ
@@ -15,6 +16,9 @@ Workshop: Discovering Brain Structure with Machine Learning, edycja politechnicz
 4. PCA
     * intuicja
     * implementacja
+    * interpretacja
+5. Podsumowanie
+    * interakcje biologii z machine learning
 
 ## setup
 ```bash
