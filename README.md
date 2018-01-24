@@ -1,4 +1,9 @@
 # Discovering Brain Structure with Machine Learning
+
+## Introduction
+This is public repository of the workshop contents. 
+
+
 1. [Applied Machine Learning Days](https://www.appliedmldays.org)
 2. [The workshop page](https://www.appliedmldays.org/workshop_sessions/discovering-brain-structure-with-machine-learning)
 
