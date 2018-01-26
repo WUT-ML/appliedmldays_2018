@@ -15,7 +15,7 @@ Workshop is designed for 3 hours. It is self-contained in a sense, that we will 
 |----|--------|
 |9:00 -  9:15  | Welcome remarks and introduction to the workshop |
 |9:15 -  9:55  | Introduction to neuroscience and machine learning |
-|9:55 -  10:10 | 15 minutes break *(good time to setup an environment to the technical part)* |
+|9:55 -  10:10 | 15 minutes break *(good time to setup an environment for the technical part)* |
 |10:10 - 11:45 | Hands-on part: analyse zebrafish imaging data *(notebook)* |
 |11:45 - 12:00 | Summary and closing remarks |
 
