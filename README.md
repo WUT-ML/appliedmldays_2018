@@ -20,8 +20,7 @@ Workshop is designed for 3 hours. It is self-contained in a sense, that we will 
 |11:45 - 12:00 | Summary and closing remarks |
 
 ## Technical setup
-
-
+There are two main ways to get started. Please refert to the [Setup page](https://github.com/WUT-ML/appliedmldays_2018/wiki/Setup) on our Wiki.
 
 ### Interactive notebooks
 Hands-on part of this workshop will make use of the [Jupyter notebooks](http://jupyter.org/). Notebook itself is an interactive execution environment that lets users evaluate single lines of code and observe an execution's output immediately. It is well-suited for exploratory and iterative work.
